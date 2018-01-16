@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Pikachu
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pikachu\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=w
+comment1.target=Pikachu(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=idx
+comment3.target=void\ attack(int)
+comment3.text=\r\n\ attack\ allows\ this\ creature\ to\ attack\r\n\ \r\n\ @param\ idx\ is\ the\ paramiter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ attackAnimation()
+comment4.text=\r\n\ attackAnimation\ gives\ this\ creature\ an\ attack\ animation\r\n\ \r\n\ @param\ There\ is\ no\ paramiter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=idx
+comment5.target=void\ switchCreature(int)
+comment5.text=\r\n\ switchCreature\ switches\ the\ current\ creature\ for\ another\r\n\ \r\n\ @param\ idx\ is\ the\ paramiter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment6.params=
+comment6.target=void\ switchedIn()
+comment6.text=\r\n\ switchedIn\ switches\ in\ a\ new\ creature\r\n\ \r\n\ @param\ There\ is\ no\ paramiter\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=7
